@@ -1,10 +1,12 @@
 # Keerthi-Sreekumar-
-<h1 align="center">Hi there👋, I'm Keerthi Sreekumar</h1>
+<h1 align="center">Hi 👋, I'm Keerthi Sreekumar</h1>
 <h3 align="center">I am a CSE student focused on AI and ML</h3>
 
 - 🔭 I’m currently studying at **SCTCE Trivandrum**
 
 - 🌱 I’m currently learning **AI,ML,python,java,C**
+
+- 📫 How to reach me **sreekumarkeerthi2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
