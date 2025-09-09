@@ -1,6 +1,6 @@
 # Keerthi-Sreekumar-
-<h1 align="center">Hi 👋, I'm Keerthi Sreekumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there👋, I'm Keerthi Sreekumar</h1>
+<h3 align="center">I am a CSE student focused on AI and ML</h3>
 
 - 🔭 I’m currently studying at **SCTCE Trivandrum**
 
